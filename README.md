@@ -1,7 +1,4 @@
-# GSoC-2026-HistoMoE-Proposal-Experiment
-Preliminary  experiments for GSoC '26 
-
-# 🧬 HistoMoE: Mixture-of-Experts for Histology-to-Gene Expression Prediction
+# Mixture-of-Experts - Histology Images to Gene-Expression Prediction
 
 A lightweight prototype of a **Mixture-of-Experts (MoE)** model for predicting **spatial gene expression** from **histology image patches**, inspired by the HEST-1k dataset and biological heterogeneity challenges.
 
